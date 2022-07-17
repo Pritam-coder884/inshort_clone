@@ -1,0 +1,13 @@
+.navbar{
+    height:70px;
+    display: flex;
+    border:1px solid #888888;
+    box-shadow:0 0.3rem 0.3rem rgba(0,0,0,.1);
+    /* width:200px;
+    padding-left: 20px;
+    padding-right: 5px; */
+}
+.icon{
+    flex:0.45;
+    margin:20px;
+}

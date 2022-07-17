@@ -1,0 +1,23 @@
+.red{
+    background-color: red;
+    color:rgb(251, 241, 241);
+    padding:15px 30px;
+    margin:40px 0px;
+    font-size:15px;
+}
+.inshorts{
+    color:white;
+    font-weight: 500;
+    font-size:15px;
+}
+.loadMore {
+    position:absolute;
+    left:550px;
+    cursor: pointer;
+    background-color: white;
+    border: none;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    padding: 7px 25px;
+    font-size: 13px;
+    /* margin-top: -20px; */
+}
